@@ -73,6 +73,15 @@ UCC-TMG-Level400-Sem2/
 │   ├── supervisor-meetings/
 │   ├── final-submission/
 │   └── references/
+├── content/                 # LinkedIn & TikTok content series
+│   ├── CONTENT_CALENDAR.md
+│   ├── linkedin/
+│   │   ├── drafts/          # Posts in progress
+│   │   └── published/       # Posted content archive
+│   ├── tiktok/
+│   │   ├── scripts/         # Video scripts
+│   │   └── ideas/           # Ideas backlog
+│   └── templates/           # Reusable post & script templates
 ├── admin/                   # Administrative documents
 │   ├── timetables/
 │   ├── registration-docs/
@@ -81,6 +90,7 @@ UCC-TMG-Level400-Sem2/
 ├── PROJECT_WORK.md
 ├── STUDY_SCHEDULE.md
 ├── RESOURCES.md
+├── CONTENT_SERIES.md
 └── .gitignore
 ```
 
@@ -111,6 +121,7 @@ UCC-TMG-Level400-Sem2/
 - [ ] Complete all assignments and submit before deadlines
 - [ ] Attend all scheduled supervisor meetings for the dissertation
 - [ ] Maintain an up-to-date reflective journal throughout the semester
+- [ ] Publish weekly LinkedIn posts and TikTok videos as part of the "Tourism Insights" content series (max 3 hrs/week — paused during CA and exam weeks)
 
 ---
 
@@ -119,6 +130,8 @@ UCC-TMG-Level400-Sem2/
 - 📖 [Project Work (Dissertation) Guide](./PROJECT_WORK.md)
 - 🗓️ [Weekly Study Schedule](./STUDY_SCHEDULE.md)
 - 🌐 [Academic Resources](./RESOURCES.md)
+- 📱 [Content Series — LinkedIn & TikTok](./CONTENT_SERIES.md)
+- 🗓️ [Content Calendar](./content/CONTENT_CALENDAR.md)
 - 📁 [Administrative Documents](./admin/)
 
 ---
