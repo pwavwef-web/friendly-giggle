@@ -1,0 +1,74 @@
+# =============================================
+# .gitignore — UCC-TMG-Level400-Sem2
+# Academic document repository
+# =============================================
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+*.~*
+
+# Log files
+*.log
+
+# Node.js (in case any tooling is used)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (for any data analysis scripts)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.laccdb
+*.accdb.laccdb
+
+# PDF editor temporary files
+*.pdf.bak
+
+# Zip and archive files (uncomment if you don't want to track archives)
+# *.zip
+# *.tar.gz
+# *.rar
+
+# Environment files
+.env
+.env.local
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sync and cloud storage artefacts
+.dropbox
+Icon?
+*.icloud
